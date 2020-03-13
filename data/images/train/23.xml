@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>23</filename>
+  <path>C:\object_detection_demo\data\images\train\23.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>normalcar</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>40</xmin>
+      <ymin>151</ymin>
+      <xmax>764</xmax>
+      <ymax>441</ymax>
+    </bndbox>
+  </object>
+</annotation>
